@@ -27,7 +27,9 @@ Statesman.isOpen('myModal');  // Returns true or false
 Statesman.isClosed('myModal');  // Returns true or false
 ~~~
 
-# TODO:
+## TODO:
 Better documentation
+
 Live demo
+
 Allow identifier to be set in settings
