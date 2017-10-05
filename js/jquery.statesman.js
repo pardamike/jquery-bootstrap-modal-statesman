@@ -1,4 +1,4 @@
-(function ($) {
+;(function ($) {
     $.fn.Statesman = function (config) {
 
         var self = {
