@@ -18,10 +18,8 @@ Statesman.init();
 *Please make sure each of your modals has a unique Id*
 
 ## Get States
+Assume you have a modal with `id="myModal"`
 ~~~
-/*
- *  Assume you have a modal with the Id of 'myModal'
- */
 Statesman.getState('myModal');  // Returns 'open' or 'closed'
 Statesman.isOpen('myModal');  // Returns true or false
 Statesman.isClosed('myModal');  // Returns true or false
