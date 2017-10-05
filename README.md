@@ -35,7 +35,11 @@ Statesman.isClosed('myModal');  // Returns bool true or false
 
 ## TODO:
 Better documentation
+
 Live demo
+
 Add documenation for settings
+
 Allow identifier to be set in settings
+
 More features!
