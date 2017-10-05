@@ -14,7 +14,7 @@ var Statesman = $.fn.Statesman();
 Statesman.init();
 ~~~
 
-## Statesman uses Id's to track modals, and this is how you will call them as well
+#### Statesman uses Id's to track modals, and this is how you will call them as well
 *Please make sure each of your modals has a unique Id*
 
 ## Get States
